@@ -1,6 +1,7 @@
 import random
 from collections import Counter
 from typing import Set
+import numpy as np
 
 
 def generate_n_numbers(n: int) -> frozenset:
@@ -8,7 +9,6 @@ def generate_n_numbers(n: int) -> frozenset:
 
 
 def number_of_guessed(winning: frozenset, guessed: frozenset) -> int:
-    #print(winning.intersection(guessed))
     return len(winning & guessed)
 
 
