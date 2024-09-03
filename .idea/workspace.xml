@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d0b9b9-d630-45b8-84d6-8e7d28ca5f19" name="Changes" comment="beautiful">
+    <list default="true" id="37d0b9b9-d630-45b8-84d6-8e7d28ca5f19" name="Changes" comment="np to be continued">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loto.py" beforeDir="false" afterPath="$PROJECT_DIR$/loto.py" afterDir="false" />
     </list>
@@ -93,13 +93,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725363128866</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="np to be continued">
+      <option name="closed" value="true" />
+      <created>1725364289625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725364289625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first try" />
     <MESSAGE value="dudli du" />
     <MESSAGE value="beautiful" />
-    <option name="LAST_COMMIT_MESSAGE" value="beautiful" />
+    <MESSAGE value="np to be continued" />
+    <option name="LAST_COMMIT_MESSAGE" value="np to be continued" />
   </component>
 </project>
